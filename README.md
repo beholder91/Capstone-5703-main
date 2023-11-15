@@ -1,7 +1,7 @@
 # Capstone-5703
 COMP/DATA/CSEC 5703 Group-Based Capstone Project. 
 
-Title: Multimodal Sentiment Analysis and Synthetic Data Generation using Fused Latents.
+Title: Multimodal Sentiment Analysis.
 
 ## Getting Started
 
