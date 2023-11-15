@@ -1,7 +1,5 @@
-# Capstone-5703
+# Multimodal Sentiment Analysis
 COMP/DATA/CSEC 5703 Group-Based Capstone Project. 
-
-Title: Multimodal Sentiment Analysis.
 
 ## Getting Started
 
