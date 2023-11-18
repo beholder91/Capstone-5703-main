@@ -18,7 +18,7 @@ Please open a issue if there is any problem.
 Clone the whole github respository
 
 ```
-git clone https://github.com/MaySsssss/Capstone-5703.git
+git clone https://github.com/beholder91/Multimodal-Sentiment-Analysis.git
 ```
 
 Install all the required packages using
